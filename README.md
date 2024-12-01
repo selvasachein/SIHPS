@@ -10,16 +10,36 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Event Pulse Notifications:A mobile app feature that sends push notifications for upcoming events, networking opportunities, and job alerts.
+ MentorMatch Network:A platform that pairs alumni with current students or fellow alumni for mentorship based on professional skills and career goals.
+ Success Showcase:A feature highlighting inspiring stories of alumni who have achieved great success in their fields, shared as articles, interviews, or videos.
+ CareerLink:A unique job board that not only lists job opportunities but also provides career coaching and skill-building resources exclusively for alumni.
+ Job & Internship Network: Create a dedicated job and internship board where alumni can post opportunities specifically for other alumni and students, fostering career advancement and networking.
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-12-01 163400](https://github.com/user-attachments/assets/212499cb-bd3c-4f7b-acfb-22226ca2bd8f)
+
+
 
 
 ## Use Cases
+![Screenshot 2024-12-01 170715](https://github.com/user-attachments/assets/da620e17-768a-4cc3-9c3d-ca35590e2b1e)
+
 
 
 ## Technology Stack
+React.js
+Node.js
+Next.js
+PostgreSQL or MySQL
+MongoDB
 
 
 ## Dependencies
+Mapping service- 15 days
+
+Data collection- 20 days
+
+budget- rs.50,000
 
